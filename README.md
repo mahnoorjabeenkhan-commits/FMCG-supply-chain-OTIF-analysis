@@ -34,5 +34,5 @@ After analysing the data, I found that only 21% of orders were delivered on time
 - DASHBOARD tabs: bar charts showing performance visually
 
 ## About Me
-Built by Mahnoor Jabeen — aspiring Supply Chain and Logistics Analyst 
+Built by Mahnoor Jabeen, aspiring Supply Chain and Logistics Analyst 
 LinkedIn: https://www.linkedin.com/in/mahnoor-jabeen/ 
